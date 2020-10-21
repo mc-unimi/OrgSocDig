@@ -1,7 +1,5 @@
 # Organizzazioni e Società Digitali (Computer & Society) a.a. 2020/21 - Universita di Milano - SPS
 
-Questo repository pubblico GitHub viene utilizzato per il materiale relativo alle esercitazioni del corso (documenti, soluzioni, etc.)
-Ogni branch corrisponde a una lezione durante la quale viene discusso del materiale relativo a esercitazioni.
-
-Nel branch master sono presenti i seguenti file di interesse generale:
-- Jupyter Notebook Users Manual
+In questo branch Lezione_21ottobre sono presenti i seguenti file:
+- MASK.ipynb (notebook con esercizio maschere booleane)
+- BMI-plots.ipynb (notebook con esercizio con Body Mass Index dataset)
