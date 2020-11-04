@@ -1,7 +1,5 @@
 # Organizzazioni e Società Digitali (Computer & Society) a.a. 2020/21 - Universita di Milano - SPS
 
-Questo repository pubblico GitHub viene utilizzato per il materiale relativo alle esercitazioni del corso (documenti, soluzioni, etc.)
-Ogni branch corrisponde a una lezione durante la quale viene discusso del materiale relativo a esercitazioni.
-
-Nel branch master sono presenti i seguenti file di interesse generale:
-- Jupyter Notebook Users Manual
+Nel branch Lezione_04novembre è presente il seguente file :
+- EsGroupBy.ipynb (Jupyter Notebook) con esempio alternativo a quelli della sezione 03.08 Aggregation and Grouping del libro
+Usa il dataset in formato sas gia utilizzato in precedenza.
