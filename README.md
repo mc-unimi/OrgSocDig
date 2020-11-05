@@ -1,7 +1,7 @@
 # Organizzazioni e Società Digitali (Computer & Society) a.a. 2020/21 - Universita di Milano - SPS
 
-Questo repository pubblico GitHub viene utilizzato per il materiale relativo alle esercitazioni del corso (documenti, soluzioni, etc.)
-Ogni branch corrisponde a una lezione durante la quale viene discusso del materiale relativo a esercitazioni.
-
-Nel branch master sono presenti i seguenti file di interesse generale:
-- Jupyter Notebook Users Manual
+Nel branch Lezione_05novembre sono presenti i seguenti file:
+- dataset Excel relativi all'Esercizio 6 (Join di dataset)
+- i risultanti csv dopo aver lavorato sui dati (attenzione all'errore!!!)
+- il notebook Esercizio6_join.ipynb relativo alla join e con diverse funzioni supplementari
+- il notebook EsPivot.ipynb con un esercizio supplementare rispetto ai contenuti del notebook 03_09 Pivot Tables del libro 
