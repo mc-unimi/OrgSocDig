@@ -1,7 +1,7 @@
 # Organizzazioni e Società Digitali (Computer & Society) a.a. 2020/21 - Universita di Milano - SPS
 
-Questo repository pubblico GitHub viene utilizzato per il materiale relativo alle esercitazioni del corso (documenti, soluzioni, etc.)
-Ogni branch corrisponde a una lezione durante la quale viene discusso del materiale relativo a esercitazioni.
+Nel branch Lezione_19novembre sono presenti i seguenti file:
+- ChoroplethMaps_Folium_Geopandas.ipynb : Jupyter notebook della lezione ed esempi
+- limits_IT_regions.geojson e limits_IT_regions.topojson : file JSON geografici delle regioni italiane (fonte: OpenPolis GeoJSON Italy, https://github.com/openpolis/geojson-italy)
+- italy_regions.csv : dataset di regioni italiane con informazioni territoriali
 
-Nel branch master sono presenti i seguenti file di interesse generale:
-- Jupyter Notebook Users Manual
