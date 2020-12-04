@@ -1,9 +1,11 @@
-# Organizzazioni e Società Digitali (Computer & Society) a.a. 2020/21 - Universita di Milano - SPS
+# Organizzazioni e Società Digitali - Computer & Society (2020/21) 
+# Corso di laurea in Scienze del Lavoro, dell'Amministrazione e del Management (LAM) 
+# Universita' di Milano - Scienze Politiche e Sociali
+# Instructor: Marco Cremonini (marco.cremonini@unimi.it)
 
-Questo repository pubblico GitHub viene utilizzato per il materiale relativo alle esercitazioni del corso (documenti, soluzioni, etc.)
-Ogni branch corrisponde a una lezione durante la quale viene discusso del materiale relativo a esercitazioni.
+This page collects the final  data analysis and visualization projects carried out by some students as supplementary assigments of the course.
+The qualitative level reached by these students, beginning of the BSc's 2nd year, is remarkable.
 
-Nel branch master sono presenti i seguenti file di interesse generale:
-- Jupyter Notebook Users Manual
+mc
 
 
