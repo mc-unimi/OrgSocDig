@@ -1,4 +1,4 @@
-# Organizzazioni e Società Digitali (Computer & Society) a.a. 2020/21 - Universita di Milano - SPS
+# Organizzazioni e Società Digitali (Computer & Society) - Universita di Milano - SPS
 
 In questa branch sono presenti i seguenti file:
 - Esercizio3-08ottobre.ipynb
