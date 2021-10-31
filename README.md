@@ -1,6 +1,6 @@
-# Organizzazioni e Società Digitali (Computer & Society) a.a. 2020/21 - Universita di Milano - SPS
+# Organizzazioni e Società Digitali (Computer & Society) - Universita di Milano - SPS
 
-In questo branch Lezione_22ottobre è presente il seguente file:
+In questo branch è presente il seguente file:
 - Jupyter Notebook BMI-BRFSS.ipynb che utilizza il dataset in formato sas del Behavioral Risk Factor Surveillance Sysem 2018 (BRFSS 2018) (https://www.cdc.gov/brfss/annual_data/annual_2018.html)
 
 Il dataset LLCP2018.XPT è troppo grosso (anche in formato compresso) per essere salvato su GitHub (il cui limite è 25MB per singolo file).
