@@ -1,6 +1,7 @@
 # Organizzazioni e Società Digitali (Computer & Society) - Universita di Milano - SPS
 
-In questo branch è presente il seguente file:
+In questo branch sono presenti i seguenti file:
+- EsempioJOIN.ipynb con i dataset Emission.csv e Population.csv, estratti dai corrispondenti dataset di Gapminder
 - Jupyter Notebook BMI-BRFSS.ipynb che utilizza il dataset in formato sas del Behavioral Risk Factor Surveillance Sysem 2018 (BRFSS 2018) (https://www.cdc.gov/brfss/annual_data/annual_2018.html)
 
 Il dataset LLCP2018.XPT è troppo grosso (anche in formato compresso) per essere salvato su GitHub (il cui limite è 25MB per singolo file).
