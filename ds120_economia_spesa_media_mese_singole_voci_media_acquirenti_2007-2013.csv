@@ -1,0 +1,680 @@
+Anno;Tipologia;Categoria;Sottocategoria;Spesa media mensile familiare (euro);Media calcolata rispetto agli effettivi acquirenti (euro);Frequenza di acquisto
+2007;BENI ALIMENTARI;Pane e cereali;Pane, grissini, crackers, ecc.;28,84;33,13;87,0%
+2007;BENI ALIMENTARI;Pane e cereali;Pasta e riso;13,38;19,00;70,4%
+2007;BENI ALIMENTARI;Pane e cereali;Altri cereali e prodotti preparati;10,15;21,43;47,4%
+2007;BENI ALIMENTARI;Carne;Carni rosse;42,97;61,36;70,0%
+2007;BENI ALIMENTARI;Carne;Carni bianche;15,55;28,61;54,4%
+2007;BENI ALIMENTARI;Carne;Salumi;27,85;37,37;74,5%
+2007;BENI ALIMENTARI;Carne;Carni preparate, in scatola;2,06;16,48;12,5%
+2007;BENI ALIMENTARI;Pesce;Pesce;31,55;50,92;62,0%
+2007;BENI ALIMENTARI;Latte, formaggi e uova;Latte, yogurt e derivati del latte;21,00;25,48;82,4%
+2007;BENI ALIMENTARI;Latte, formaggi e uova;Formaggi e latticini;30,56;38,86;78,6%
+2007;BENI ALIMENTARI;Latte, formaggi e uova;Uova;3,00;6,49;46,2%
+2007;BENI ALIMENTARI;Oli e grassi;Olio di oliva e semi;8,28;23,79;34,8%
+2007;BENI ALIMENTARI;Oli e grassi;Burro, margarina e altri grassi;1,82;8,36;21,8%
+2007;BENI ALIMENTARI;Patate, frutta e ortaggi;Ortaggi;46,04;50,41;91,3%
+2007;BENI ALIMENTARI;Patate, frutta e ortaggi;Frutta;42,17;46,18;91,3%
+2007;BENI ALIMENTARI;Zucchero, caffè e drogheria;Zucchero;1,15;5,04;22,8%
+2007;BENI ALIMENTARI;Zucchero, caffè e drogheria;Gelati, confetture e dolciumi;33,99;41,54;81,8%
+2007;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caffè, the, cacao, orzo, ecc.;8,17;17,22;47,4%
+2007;BENI ALIMENTARI;Zucchero, caffè e drogheria;Sale, spezie, salse e condimenti;7,17;13,34;53,8%
+2007;BENI ALIMENTARI;Bevande;Vino;17,86;43,94;40,6%
+2007;BENI ALIMENTARI;Bevande;Birra;3,88;17,25;22,5%
+2007;BENI ALIMENTARI;Bevande;Liquori e altre bevande alcooliche;4,09;29,83;13,7%
+2007;BENI ALIMENTARI;Bevande;Acqua minerale;11,54;18,49;62,4%
+2007;BENI ALIMENTARI;Bevande;Altre bevande;8,60;17,94;47,9%
+2007;BENI ALIMENTARI;Altri generi alimentari;Altri generi alimentari;19,92;42,68;46,7%
+2007;BENI NON ALIMENTARI;Tabacchi;Tabacchi;23,85;94,28;25,3%
+2007;BENI NON ALIMENTARI;Abbigliamento e calzature;Abbigliamento;91,29;114,80;79,5%
+2007;BENI NON ALIMENTARI;Abbigliamento e calzature;Calzature;27,12;43,56;62,3%
+2007;BENI NON ALIMENTARI;Abbigliamento e calzature;Riparazioni di abbigliamento e calzature;0,08;2,77;2,9%
+2007;BENI NON ALIMENTARI;Abitazione;Affitto canone mensile;131,37;483,59;27,2%
+2007;BENI NON ALIMENTARI;Abitazione;ICI;24,45;34,43;71,0%
+2007;BENI NON ALIMENTARI;Abitazione;Tassa rifiuti;19,07;20,31;93,9%
+2007;BENI NON ALIMENTARI;Abitazione;Acqua e condominio;144,71;184,82;78,3%
+2007;BENI NON ALIMENTARI;Abitazione;Manutenzione ordinaria;21,12;74,85;28,2%
+2007;BENI NON ALIMENTARI;Abitazione;Manutenzione straordinaria;29,97;170,48;17,6%
+2007;BENI NON ALIMENTARI;Combustibili ed energia;Energia elettrica;38,19;38,63;98,9%
+2007;BENI NON ALIMENTARI;Combustibili ed energia;Gas e altri combustibili per riscald.;53,46;54,39;98,3%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Elettrodomestici;15,25;137,84;11,1%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Altri beni durevoli per la casa;4,80;52,50;9,1%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Piccoli apparecchi elettrici e acc. per la casa;7,15;16,43;43,5%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Mobili;25,13;327,42;7,7%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Articoli di arredamento e biancheria casa;7,90;46,24;17,1%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Pentole, posate e altre stoviglie;3,05;20,88;14,6%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Tovaglioli piatti carta contenitori alluminio ecc.;5,15;8,52;60,4%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Detersivi;11,52;16,57;69,6%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Lavanderia e tintoria;2,87;11,42;25,2%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Servizi domestici;42,19;375,83;11,2%
+2007;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Riparazioni di mobili, elettrod. e app. elettrici;0,19;7,68;2,4%
+2007;BENI NON ALIMENTARI;Sanità;Medicinali;16,55;28,53;58,0%
+2007;BENI NON ALIMENTARI;Sanità;Visite mediche (escluso dentista);28,68;84,38;34,0%
+2007;BENI NON ALIMENTARI;Sanità;Dentista;82,73;252,51;32,8%
+2007;BENI NON ALIMENTARI;Sanità;Ricoveri ospedalieri, case di riposo, infermieri;7,78;118,44;6,6%
+2007;BENI NON ALIMENTARI;Sanità;Occhiali da vista, protesi, apparecchi ecc.;14,87;93,83;15,9%
+2007;BENI NON ALIMENTARI;Sanità;Analisi esami radiografie altre spese salute;10,17;39,58;25,7%
+2007;BENI NON ALIMENTARI;Trasporti;Acquisto auto;155,13;2702,41;5,7%
+2007;BENI NON ALIMENTARI;Trasporti;Acquisto moto e scooter;21,53;1273,10;1,7%
+2007;BENI NON ALIMENTARI;Trasporti;Aquisto biciclette;1,17;59,67;2,0%
+2007;BENI NON ALIMENTARI;Trasporti;Assicurazioni mezzi trasporto bollo/patente;64,03;98,47;65,0%
+2007;BENI NON ALIMENTARI;Trasporti;Manutenzioni e riparazioni, Pezzi di ricambio;18,28;38,83;47,1%
+2007;BENI NON ALIMENTARI;Trasporti;Carburanti per veicoli;37,92;89,81;42,2%
+2007;BENI NON ALIMENTARI;Trasporti;Tram, autobus e taxi;11,16;21,20;52,6%
+2007;BENI NON ALIMENTARI;Trasporti;Altri trasporti;13,22;50,26;26,3%
+2007;BENI NON ALIMENTARI;Trasporti;Spese per parcheggio box auto e pedaggi;10,27;37,98;27,0%
+2007;BENI NON ALIMENTARI;Trasporti;Acquisto altri mezzi di trasporto;1,42;362,26;0,4%
+2007;BENI NON ALIMENTARI;Trasporti;Pezzi di ricambio2;4,58;24,27;18,9%
+2007;BENI NON ALIMENTARI;Comunicazioni;Spese per telefono, abb. cellulare /ricariche;56,87;59,72;95,2%
+2007;BENI NON ALIMENTARI;Comunicazioni;Apparecchi per telefonia e comunicazioni;5,30;39,30;13,5%
+2007;BENI NON ALIMENTARI;Comunicazioni;Francobolli e altre spese postali;0,17;4,61;3,7%
+2007;BENI NON ALIMENTARI;Istruzione;Libri scolastici;4,62;35,66;12,9%
+2007;BENI NON ALIMENTARI;Istruzione;Tasse scolastiche, rette e simili;27,01;138,82;19,5%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Radio, TV, HI-FI, videoregistratori, ecc.;27,41;149,63;18,3%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Computer, stampanti, software, ecc.;13,45;126,31;10,6%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giochi e giocattoli;2,78;27,71;10,0%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Libri non scolastici;2,76;14,11;19,5%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giornali e riviste;12,45;21,86;57,0%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Dischi, cassette e videocassette;1,24;11,61;10,6%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cancelleria;0,98;6,59;14,9%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Abbonamento radio-tv e internet;10,97;13,50;81,3%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Lotto, totocalcio e lotterie;0,58;4,74;12,3%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Piante e fiori;1,05;8,79;12,0%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese per lo sport e articoli sportivi;37,04;137,14;27,0%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cinema, teatro, concerti e musei;2,61;15,35;17,0%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Altri articoli per il tempo libero;1,92;58,88;3,3%
+2007;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Bricolage, modellismo e collezionismo;2,96;83,73;3,5%
+2007;BENI NON ALIMENTARI;Mutuo;Rata mensile;69,71;773,22;9,0%
+2007;BENI NON ALIMENTARI;Affitto figurativo ;Canone mensile;594,29;1072,94;55,4%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Prodotti per la cura personale;19,93;26,03;76,6%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Apparecchi per la cura della persona;0,84;15,14;5,5%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Barbiere, parucchiere e istituti di bellezza;7,08;31,26;22,7%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Argenteria, gioielleria, bigiotteria, orologi;6,35;89,00;7,1%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Borse valigie altri articoli personali e infanzia;6,60;35,45;18,6%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Assicurazioni vita e malattie;54,21;230,83;23,5%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Spese animali domestici spese veterinarie;3,50;19,07;18,4%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Onorari liberi professionisti;30,58;333,08;9,2%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Oneri bancari gestione conto;5,93;15,53;38,2%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Alberghi, pensioni e viaggi organizzati;104,03;358,76;29,0%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Pasti e consumazioni fuori casa;44,26;76,60;57,8%
+2007;BENI NON ALIMENTARI;Altri beni e servizi;Altre spese;44,22;211,93;20,9%
+2008;BENI ALIMENTARI;Pane e cereali;Pane, grissini, crackers, ecc.;30,54;33,76;90,5%
+2008;BENI ALIMENTARI;Pane e cereali;Pasta e riso;15,51;21,17;73,3%
+2008;BENI ALIMENTARI;Pane e cereali;Altri cereali e prodotti preparati;9,38;20,96;44,7%
+2008;BENI ALIMENTARI;Carne;Carni rosse;49,60;69,82;71,0%
+2008;BENI ALIMENTARI;Carne;Carni bianche;17,43;33,22;52,5%
+2008;BENI ALIMENTARI;Carne;Salumi;30,87;41,78;73,9%
+2008;BENI ALIMENTARI;Carne;Carni preparate, in scatola;1,28;16,66;7,7%
+2008;BENI ALIMENTARI;Pesce;Pesce;30,43;53,53;56,9%
+2008;BENI ALIMENTARI;Latte, formaggi e uova;Latte, yogurt e derivati del latte;23,59;26,97;87,5%
+2008;BENI ALIMENTARI;Latte, formaggi e uova;Formaggi e latticini;29,47;38,39;76,7%
+2008;BENI ALIMENTARI;Latte, formaggi e uova;Uova;2,89;7,48;38,7%
+2008;BENI ALIMENTARI;Oli e grassi;Olio di oliva e semi;10,29;31,42;32,8%
+2008;BENI ALIMENTARI;Oli e grassi;Burro, margarina e altri grassi;1,73;8,65;20,0%
+2008;BENI ALIMENTARI;Patate, frutta e ortaggi;Ortaggi;48,68;52,70;92,4%
+2008;BENI ALIMENTARI;Patate, frutta e ortaggi;Frutta;45,44;50,67;89,7%
+2008;BENI ALIMENTARI;Zucchero, caffè e drogheria;Zucchero;1,18;5,72;20,6%
+2008;BENI ALIMENTARI;Zucchero, caffè e drogheria;Gelati, confetture e dolciumi;29,83;37,94;78,6%
+2008;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caffè, the, cacao, orzo, ecc.;8,57;20,46;41,9%
+2008;BENI ALIMENTARI;Zucchero, caffè e drogheria;Sale, spezie, salse e condimenti;7,63;14,06;54,3%
+2008;BENI ALIMENTARI;Bevande;Vino;17,76;47,63;37,3%
+2008;BENI ALIMENTARI;Bevande;Birra;4,33;20,99;20,6%
+2008;BENI ALIMENTARI;Bevande;Liquori e altre bevande alcooliche;2,70;33,80;8,0%
+2008;BENI ALIMENTARI;Bevande;Acqua minerale;10,34;19,44;53,2%
+2008;BENI ALIMENTARI;Bevande;Altre bevande;9,88;19,68;50,2%
+2008;BENI ALIMENTARI;Altri generi alimentari;Altri generi alimentari;26,93;46,33;58,1%
+2008;BENI NON ALIMENTARI;Tabacchi;Tabacchi;25,69;103,49;24,8%
+2008;BENI NON ALIMENTARI;Abbigliamento e calzature;Abbigliamento;86,82;110,35;78,7%
+2008;BENI NON ALIMENTARI;Abbigliamento e calzature;Calzature;30,16;48,11;62,7%
+2008;BENI NON ALIMENTARI;Abbigliamento e calzature;Riparazioni di abbigliamento e calzature;0,06;1,32;4,6%
+2008;BENI NON ALIMENTARI;Abitazione;Affitto canone mensile;151,02;517,64;29,2%
+2008;BENI NON ALIMENTARI;Abitazione;ICI;15,13;34,10;44,4%
+2008;BENI NON ALIMENTARI;Abitazione;Tassa rifiuti;19,61;19,84;98,9%
+2008;BENI NON ALIMENTARI;Abitazione;Acqua e condominio;154,17;200,22;77,0%
+2008;BENI NON ALIMENTARI;Abitazione;Manutenzione ordinaria;27,80;101,52;27,4%
+2008;BENI NON ALIMENTARI;Abitazione;Manutenzione straordinaria;40,67;267,03;15,2%
+2008;BENI NON ALIMENTARI;Combustibili ed energia;Energia elettrica;39,94;39,94;100,0%
+2008;BENI NON ALIMENTARI;Combustibili ed energia;Gas e altri combustibili per riscald.;54,70;54,70;100,0%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Elettrodomestici;21,79;131,04;16,6%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Altri beni durevoli per la casa;6,63;97,25;6,8%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Piccoli apparecchi elettrici e acc. per la casa;4,40;6,37;69,1%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Mobili;26,26;338,96;7,7%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Articoli di arredamento e biancheria casa;9,98;50,36;19,8%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Pentole, posate e altre stoviglie;2,54;17,25;14,8%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Tovaglioli piatti carta contenitori alluminio ecc.;1,10;3,03;36,2%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Detersivi;3,64;6,30;57,8%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Lavanderia e tintoria;2,37;8,54;27,7%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Servizi domestici;55,88;409,46;13,6%
+2008;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Riparazioni di mobili, elettrod. e app. elettrici;0,27;6,85;3,9%
+2008;BENI NON ALIMENTARI;Sanità;Medicinali;11,22;23,28;48,2%
+2008;BENI NON ALIMENTARI;Sanità;Visite mediche (escluso dentista);27,89;76,69;36,4%
+2008;BENI NON ALIMENTARI;Sanità;Dentista;91,56;339,78;26,9%
+2008;BENI NON ALIMENTARI;Sanità;Ricoveri ospedalieri, case di riposo, infermieri;13,36;195,71;6,8%
+2008;BENI NON ALIMENTARI;Sanità;Occhiali da vista, protesi, apparecchi ecc.;17,18;81,49;21,1%
+2008;BENI NON ALIMENTARI;Sanità;Analisi esami radiografie altre spese salute;8,43;39,99;21,1%
+2008;BENI NON ALIMENTARI;Trasporti;Acquisto auto;72,70;1543,78;4,7%
+2008;BENI NON ALIMENTARI;Trasporti;Acquisto moto e scooter;4,96;358,58;1,4%
+2008;BENI NON ALIMENTARI;Trasporti;Aquisto biciclette;0,59;40,94;1,4%
+2008;BENI NON ALIMENTARI;Trasporti;Assicurazioni mezzi trasporto bollo/patente;70,44;100,87;69,8%
+2008;BENI NON ALIMENTARI;Trasporti;Manutenzioni e riparazioni, Pezzi di ricambio;22,67;38,76;58,5%
+2008;BENI NON ALIMENTARI;Trasporti;Carburanti per veicoli;45,72;93,89;48,7%
+2008;BENI NON ALIMENTARI;Trasporti;Tram, autobus e taxi;12,00;20,15;59,6%
+2008;BENI NON ALIMENTARI;Trasporti;Altri trasporti;18,03;58,14;31,0%
+2008;BENI NON ALIMENTARI;Trasporti;Spese per parcheggio box auto e pedaggi;9,14;30,32;30,1%
+2008;BENI NON ALIMENTARI;Trasporti;Pezzi di ricambio2;6,78;27,43;24,7%
+2008;BENI NON ALIMENTARI;Comunicazioni;Spese per telefono, abb. cellulare /ricariche;68,43;71,67;95,5%
+2008;BENI NON ALIMENTARI;Comunicazioni;Apparecchi per telefonia e comunicazioni;4,81;38,06;12,6%
+2008;BENI NON ALIMENTARI;Comunicazioni;Francobolli e altre spese postali;0,03;0,78;4,2%
+2008;BENI NON ALIMENTARI;Istruzione;Libri scolastici;3,64;27,18;13,4%
+2008;BENI NON ALIMENTARI;Istruzione;Tasse scolastiche, rette e simili;32,05;164,74;19,5%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Radio, TV, HI-FI, videoregistratori, ecc.;15,41;100,24;15,4%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Computer, stampanti, software, ecc.;11,52;96,69;11,9%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giochi e giocattoli;1,23;11,14;11,1%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Libri non scolastici;8,26;20,24;40,8%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giornali e riviste;9,21;14,46;63,7%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Dischi, cassette e videocassette;0,89;7,01;12,6%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cancelleria;0,46;3,06;15,1%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Abbonamento radio-tv e internet;11,98;14,63;81,8%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Lotto, totocalcio e lotterie;0,31;2,51;12,4%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Piante e fiori;1,04;7,32;14,2%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese per lo sport e articoli sportivi;42,43;142,60;29,8%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cinema, teatro, concerti e musei;2,24;17,12;13,1%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Altri articoli per il tempo libero;3,57;54,69;6,5%
+2008;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Bricolage, modellismo e collezionismo;1,12;32,46;3,4%
+2008;BENI NON ALIMENTARI;Mutuo;Rata mensile;124,76;817,66;15,3%
+2008;BENI NON ALIMENTARI;Affitto figurativo ;Canone mensile;554,32;1062,81;52,2%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Prodotti per la cura personale;7,33;10,15;72,2%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Apparecchi per la cura della persona;1,01;19,18;5,3%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Barbiere, parucchiere e istituti di bellezza;4,94;21,30;23,2%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Argenteria, gioielleria, bigiotteria, orologi;10,66;117,73;9,1%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Borse valigie altri articoli personali e infanzia;7,67;31,23;24,6%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Assicurazioni vita e malattie;43,73;111,44;39,2%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Spese animali domestici spese veterinarie;2,74;14,26;19,2%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Onorari liberi professionisti;16,12;133,30;12,1%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Oneri bancari gestione conto;5,05;9,58;52,8%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Alberghi, pensioni e viaggi organizzati;131,01;389,09;33,7%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Pasti e consumazioni fuori casa;30,89;47,95;64,4%
+2008;BENI NON ALIMENTARI;Altri beni e servizi;Altre spese;32,81;139,81;23,5%
+2009;BENI ALIMENTARI;Pane e cereali;Pane, grissini, crackers, ecc.;27,23;29,70;91,7%
+2009;BENI ALIMENTARI;Pane e cereali;Pasta e riso;14,26;20,25;70,4%
+2009;BENI ALIMENTARI;Pane e cereali;Altri cereali e prodotti preparati;8,96;20,95;42,8%
+2009;BENI ALIMENTARI;Carne;Carni rosse;43,19;62,44;69,2%
+2009;BENI ALIMENTARI;Carne;Carni bianche;16,94;34,30;49,4%
+2009;BENI ALIMENTARI;Carne;Salumi;35,60;44,68;79,7%
+2009;BENI ALIMENTARI;Carne;Carni preparate, in scatola;0,59;18,63;3,2%
+2009;BENI ALIMENTARI;Pesce;Pesce;24,41;50,95;47,9%
+2009;BENI ALIMENTARI;Latte, formaggi e uova;Latte, yogurt e derivati del latte;19,93;25,70;77,5%
+2009;BENI ALIMENTARI;Latte, formaggi e uova;Formaggi e latticini;33,56;38,97;86,1%
+2009;BENI ALIMENTARI;Latte, formaggi e uova;Uova;2,67;7,12;37,5%
+2009;BENI ALIMENTARI;Oli e grassi;Olio di oliva e semi;10,82;26,38;41,0%
+2009;BENI ALIMENTARI;Oli e grassi;Burro, margarina e altri grassi;1,69;7,71;21,9%
+2009;BENI ALIMENTARI;Patate, frutta e ortaggi;Ortaggi;39,41;44,35;88,9%
+2009;BENI ALIMENTARI;Patate, frutta e ortaggi;Frutta;35,42;43,40;81,6%
+2009;BENI ALIMENTARI;Zucchero, caffè e drogheria;Zucchero;1,30;5,57;23,3%
+2009;BENI ALIMENTARI;Zucchero, caffè e drogheria;Gelati, confetture e dolciumi;26,96;37,76;71,4%
+2009;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caffè, the, cacao, orzo, ecc.;9,27;24,99;37,1%
+2009;BENI ALIMENTARI;Zucchero, caffè e drogheria;Sale, spezie, salse e condimenti;7,81;15,59;50,1%
+2009;BENI ALIMENTARI;Bevande;Vino;18,28;41,18;44,4%
+2009;BENI ALIMENTARI;Bevande;Birra;4,05;22,87;17,7%
+2009;BENI ALIMENTARI;Bevande;Liquori e altre bevande alcooliche;2,99;37,38;8,0%
+2009;BENI ALIMENTARI;Bevande;Acqua minerale;10,00;20,61;48,5%
+2009;BENI ALIMENTARI;Bevande;Altre bevande;8,35;19,97;41,8%
+2009;BENI ALIMENTARI;Altri generi alimentari;Altri generi alimentari;18,35;37,66;48,7%
+2009;BENI NON ALIMENTARI;Tabacchi;Tabacchi;21,11;93,69;22,5%
+2009;BENI NON ALIMENTARI;Abbigliamento e calzature;Abbigliamento;78,02;95,98;81,3%
+2009;BENI NON ALIMENTARI;Abbigliamento e calzature;Calzature;25,04;43,32;57,8%
+2009;BENI NON ALIMENTARI;Abbigliamento e calzature;Riparazioni di abbigliamento e calzature;2,17;15,38;14,1%
+2009;BENI NON ALIMENTARI;Abitazione;Affitto canone mensile;158,91;490,09;32,4%
+2009;BENI NON ALIMENTARI;Abitazione;ICI;1,60;25,91;6,2%
+2009;BENI NON ALIMENTARI;Abitazione;Tassa rifiuti;17,66;20,00;88,3%
+2009;BENI NON ALIMENTARI;Abitazione;Acqua e condominio;158,48;216,22;73,3%
+2009;BENI NON ALIMENTARI;Abitazione;Manutenzione ordinaria;20,25;95,86;21,1%
+2009;BENI NON ALIMENTARI;Abitazione;Manutenzione straordinaria;32,32;171,61;18,8%
+2009;BENI NON ALIMENTARI;Combustibili ed energia;Energia elettrica;37,19;37,74;98,5%
+2009;BENI NON ALIMENTARI;Combustibili ed energia;Gas e altri combustibili per riscald.;37,38;38,13;98,0%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Elettrodomestici;16,54;163,81;10,1%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Altri beni durevoli per la casa;10,76;97,33;11,1%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Piccoli apparecchi elettrici e acc. per la casa;15,27;22,28;68,5%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Mobili;23,30;281,22;8,3%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Articoli di arredamento e biancheria casa;11,21;68,07;16,5%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Pentole, posate e altre stoviglie;2,02;16,00;12,6%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Tovaglioli piatti carta contenitori alluminio ecc.;4,34;14,99;29,0%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Detersivi;16,11;28,03;57,5%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Lavanderia e tintoria;9,74;51,80;18,8%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Servizi domestici;41,95;322,28;13,0%
+2009;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Riparazioni di mobili, elettrod. e app. elettrici;2,75;36,27;7,6%
+2009;BENI NON ALIMENTARI;Sanità;Medicinali;49,82;68,92;72,3%
+2009;BENI NON ALIMENTARI;Sanità;Visite mediche (escluso dentista);18,33;66,92;27,4%
+2009;BENI NON ALIMENTARI;Sanità;Dentista;68,88;299,95;23,0%
+2009;BENI NON ALIMENTARI;Sanità;Ricoveri ospedalieri, case di riposo, infermieri;15,85;169,93;9,3%
+2009;BENI NON ALIMENTARI;Sanità;Occhiali da vista, protesi, apparecchi ecc.;12,22;81,01;15,1%
+2009;BENI NON ALIMENTARI;Sanità;Analisi esami radiografie altre spese salute;5,40;33,53;16,1%
+2009;BENI NON ALIMENTARI;Trasporti;Acquisto auto;42,84;521,96;8,2%
+2009;BENI NON ALIMENTARI;Trasporti;Acquisto moto e scooter;7,57;329,41;2,3%
+2009;BENI NON ALIMENTARI;Trasporti;Aquisto biciclette;0,66;27,49;2,4%
+2009;BENI NON ALIMENTARI;Trasporti;Assicurazioni mezzi trasporto bollo/patente;61,08;94,76;64,5%
+2009;BENI NON ALIMENTARI;Trasporti;Manutenzioni e riparazioni, Pezzi di ricambio;21,63;42,89;50,4%
+2009;BENI NON ALIMENTARI;Trasporti;Carburanti per veicoli;81,69;131,57;62,1%
+2009;BENI NON ALIMENTARI;Trasporti;Tram, autobus e taxi;22,17;33,99;65,2%
+2009;BENI NON ALIMENTARI;Trasporti;Altri trasporti;33,15;256,00;13,0%
+2009;BENI NON ALIMENTARI;Trasporti;Spese per parcheggio box auto e pedaggi;23,77;84,80;28,0%
+2009;BENI NON ALIMENTARI;Comunicazioni;Spese per telefono, abb. cellulare /ricariche;68,51;69,53;98,5%
+2009;BENI NON ALIMENTARI;Comunicazioni;Apparecchi per telefonia e comunicazioni;3,29;41,83;7,9%
+2009;BENI NON ALIMENTARI;Comunicazioni;Francobolli e altre spese postali;1,31;10,71;12,2%
+2009;BENI NON ALIMENTARI;Istruzione;Libri scolastici;3,32;24,88;13,4%
+2009;BENI NON ALIMENTARI;Istruzione;Tasse scolastiche, rette e simili;33,25;168,23;19,8%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Radio, TV, HI-FI, videoregistratori, ecc.;14,53;106,37;13,7%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Computer, stampanti, software, ecc.;11,69;102,51;11,4%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giochi e giocattoli;8,64;55,87;15,5%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Libri non scolastici;15,26;32,36;47,2%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giornali e riviste;16,85;31,11;54,2%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Dischi, cassette e videocassette;5,13;25,72;19,9%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cancelleria;7,12;28,42;25,1%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Abbonamento radio-tv e internet;15,07;33,69;44,7%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Lotto, totocalcio e lotterie;9,54;61,51;15,5%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Piante e fiori;6,93;56,64;12,2%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese per lo sport e articoli sportivi;28,03;111,30;25,2%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cinema, teatro, concerti e musei;13,40;40,55;33,0%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Altri articoli per il tempo libero;3,34;85,78;3,9%
+2009;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Bricolage, modellismo e collezionismo;0,53;99,98;0,5%
+2009;BENI NON ALIMENTARI;Mutuo;Rata mensile;94,24;697,29;13,5%
+2009;BENI NON ALIMENTARI;Affitto figurativo ;Canone mensile;546,55;1093,42;50,0%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Prodotti per la cura personale;34,02;50,22;67,7%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Apparecchi per la cura della persona;1,59;26,16;6,1%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Barbiere, parucchiere e istituti di bellezza;27,30;118,67;23,0%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Argenteria, gioielleria, bigiotteria, orologi;6,14;78,45;7,8%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Borse valigie altri articoli personali e infanzia;5,26;29,54;17,8%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Assicurazioni vita e malattie;35,73;101,24;35,3%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Spese animali domestici spese veterinarie;10,67;53,77;19,8%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Onorari liberi professionisti;13,21;82,36;16,0%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Oneri bancari gestione conto;3,40;8,03;42,3%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Alberghi, pensioni e viaggi organizzati;94,68;355,89;26,6%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Pasti e consumazioni fuori casa;87,99;156,44;56,2%
+2009;BENI NON ALIMENTARI;Altri beni e servizi;Altre spese;12,51;152,71;8,2%
+2010;BENI ALIMENTARI;Pane e cereali;Pane, grissini, crackers, ecc.;25,16;28,67;87,80%
+2010;BENI ALIMENTARI;Pane e cereali;Pasta e riso;13,22;20,62;64,10%
+2010;BENI ALIMENTARI;Pane e cereali;Altri cereali e prodotti preparati;9,26;21,4;43,30%
+2010;BENI ALIMENTARI;Carne;Carni rosse;42,25;62,53;67,60%
+2010;BENI ALIMENTARI;Carne;Carni bianche;14,15;33,2;42,60%
+2010;BENI ALIMENTARI;Carne;Salumi;32,65;43,4;75,20%
+2010;BENI ALIMENTARI;Carne;Carni preparate, in scatola;0,63;16,08;3,90%
+2010;BENI ALIMENTARI;Pesce;Pesce;27,5;53,14;51,80%
+2010;BENI ALIMENTARI;Latte, formaggi e uova;Latte, yogurt e derivati del latte;17,88;23,24;76,90%
+2010;BENI ALIMENTARI;Latte, formaggi e uova;Formaggi e latticini;28,34;37,69;75,20%
+2010;BENI ALIMENTARI;Latte, formaggi e uova;Uova;3,26;7,89;41,30%
+2010;BENI ALIMENTARI;Oli e grassi;Olio di oliva e semi;10,49;30,53;34,40%
+2010;BENI ALIMENTARI;Oli e grassi;Burro, margarina e altri grassi;1,87;9,15;20,50%
+2010;BENI ALIMENTARI;Patate, frutta e ortaggi;Ortaggi;39,2;43,72;89,60%
+2010;BENI ALIMENTARI;Patate, frutta e ortaggi;Frutta;36,51;43,98;83,00%
+2010;BENI ALIMENTARI;Zucchero, caffè e drogheria;Zucchero;0,78;5,1;15,30%
+2010;BENI ALIMENTARI;Zucchero, caffè e drogheria;Gelati, confetture e dolciumi;25,67;37,14;69,10%
+2010;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caffè, the, cacao, orzo, ecc.;7,62;22,87;33,30%
+2010;BENI ALIMENTARI;Zucchero, caffè e drogheria;Sale, spezie, salse e condimenti;5,58;12,84;43,40%
+2010;BENI ALIMENTARI;Bevande;Vino;19,04;44,71;42,60%
+2010;BENI ALIMENTARI;Bevande;Birra;3,78;19,92;19,00%
+2010;BENI ALIMENTARI;Bevande;Liquori e altre bevande alcooliche;2,53;52,48;4,80%
+2010;BENI ALIMENTARI;Bevande;Acqua minerale;8,89;18,09;49,10%
+2010;BENI ALIMENTARI;Bevande;Altre bevande;9,34;21,06;44,30%
+2010;BENI ALIMENTARI;Altri generi alimentari;Altri generi alimentari;17,11;38,41;44,50%
+2010;BENI NON ALIMENTARI;Tabacchi;Tabacchi;18,67;106,01;17,60%
+2010;BENI NON ALIMENTARI;Abbigliamento e calzature;Abbigliamento;90,84;118,45;76,70%
+2010;BENI NON ALIMENTARI;Abbigliamento e calzature;Calzature;24,09;41,75;57,70%
+2010;BENI NON ALIMENTARI;Abbigliamento e calzature;Riparazioni di abbigliamento e calzature;4,27;19,1;22,30%
+2010;BENI NON ALIMENTARI;Abitazione;Affitto canone mensile;147,78;513,79;28,80%
+2010;BENI NON ALIMENTARI;Abitazione;ICI;2,51;31,81;7,90%
+2010;BENI NON ALIMENTARI;Abitazione;Tassa rifiuti;16,8;19,44;86,50%
+2010;BENI NON ALIMENTARI;Abitazione;Acqua e condominio;166,29;211,05;78,80%
+2010;BENI NON ALIMENTARI;Abitazione;Manutenzione ordinaria;27,25;99,1;27,50%
+2010;BENI NON ALIMENTARI;Abitazione;Manutenzione straordinaria;34,95;213,76;16,40%
+2010;BENI NON ALIMENTARI;Combustibili ed energia;Energia elettrica;35,79;37,1;96,50%
+2010;BENI NON ALIMENTARI;Combustibili ed energia;Gas e altri combustibili per riscald.;34,71;36,26;95,70%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Elettrodomestici;22,5;150,19;15,00%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Altri beni durevoli per la casa;6,02;58,59;10,30%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Piccoli apparecchi elettrici e acc. per la casa;18,16;26,86;67,60%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Mobili;30,73;283,68;10,80%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Articoli di arredamento e biancheria casa;10,91;57,19;19,10%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Pentole, posate e altre stoviglie;3,14;17,21;18,30%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Tovaglioli piatti carta contenitori alluminio ecc.;5,18;18,17;28,50%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Detersivi;15,63;30,11;51,90%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Lavanderia e tintoria;6,71;44,72;15,00%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Servizi domestici;66,73;322,95;20,70%
+2010;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Riparazioni di mobili, elettrod. e app. elettrici;2,93;39,3;7,50%
+2010;BENI NON ALIMENTARI;Sanità;Medicinali;52,86;71,64;73,80%
+2010;BENI NON ALIMENTARI;Sanità;Visite mediche (escluso dentista);19,11;71,01;26,90%
+2010;BENI NON ALIMENTARI;Sanità;Dentista;67,53;330,13;20,50%
+2010;BENI NON ALIMENTARI;Sanità;Ricoveri ospedalieri, case di riposo, infermieri;21,62;308,74;7,00%
+2010;BENI NON ALIMENTARI;Sanità;Occhiali da vista, protesi, apparecchi ecc.;14,27;83,58;17,10%
+2010;BENI NON ALIMENTARI;Sanità;Analisi esami radiografie altre spese salute;5,98;38,19;15,70%
+2010;BENI NON ALIMENTARI;Trasporti;Acquisto auto;46,49;555,38;8,40%
+2010;BENI NON ALIMENTARI;Trasporti;Acquisto moto e scooter;2,29;182,81;1,30%
+2010;BENI NON ALIMENTARI;Trasporti;Aquisto biciclette;1,03;31,05;3,30%
+2010;BENI NON ALIMENTARI;Trasporti;Assicurazioni mezzi trasporto bollo/patente;54,49;85,27;63,90%
+2010;BENI NON ALIMENTARI;Trasporti;Manutenzioni e riparazioni, Pezzi di ricambio;20,4;42,02;48,60%
+2010;BENI NON ALIMENTARI;Trasporti;Carburanti per veicoli;76,76;122,16;62,80%
+2010;BENI NON ALIMENTARI;Trasporti;Tram, autobus e taxi;23,2;32,24;72,00%
+2010;BENI NON ALIMENTARI;Trasporti;Altri trasporti;48,71;294,98;16,50%
+2010;BENI NON ALIMENTARI;Trasporti;Spese per parcheggio box auto e pedaggi;20,63;64,52;32,00%
+2010;BENI NON ALIMENTARI;Comunicazioni;Spese per telefono, abb. cellulare /ricariche;65,2;66,37;98,20%
+2010;BENI NON ALIMENTARI;Comunicazioni;Apparecchi per telefonia e comunicazioni;4,94;42,79;11,50%
+2010;BENI NON ALIMENTARI;Comunicazioni;Francobolli e altre spese postali;1,26;8,07;15,60%
+2010;BENI NON ALIMENTARI;Istruzione;Libri scolastici;2,83;23,6;12,00%
+2010;BENI NON ALIMENTARI;Istruzione;Tasse scolastiche, rette e simili;30,76;181,5;16,90%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Radio, TV, HI-FI, videoregistratori, ecc.;21,97;81,36;27,00%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Computer, stampanti, software, ecc.;6,01;63,64;9,40%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giochi e giocattoli;8,07;41,3;19,50%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Libri non scolastici;18,77;35,91;52,30%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giornali e riviste;16,28;35,35;46,00%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Dischi, cassette e videocassette;4,2;22,28;18,90%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cancelleria;5,01;22,91;21,90%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Abbonamento radio-tv e internet;12,53;39,82;31,50%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Lotto, totocalcio e lotterie;9,32;63,2;14,70%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Piante e fiori;5,71;47,39;12,10%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese per lo sport e articoli sportivi;33,29;111,49;29,90%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cinema, teatro, concerti e musei;17,23;43,5;39,60%
+2010;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Altri articoli per il tempo libero;4,11;96,49;4,30%
+2010;BENI NON ALIMENTARI;Mutuo;Rata mensile;89,82;617,2;14,60%
+2010;BENI NON ALIMENTARI;Affitto figurativo ;Canone mensile;596,37;1057,13;56,40%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Prodotti per la cura personale;29,55;47,01;62,80%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Apparecchi per la cura della persona;1,03;21,47;4,80%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Barbiere, parucchiere e istituti di bellezza;23,69;134,27;17,60%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Argenteria, gioielleria, bigiotteria, orologi;5,81;54,74;10,60%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Borse valigie altri articoli personali e infanzia;9,8;46,54;21,10%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Assicurazioni vita e malattie;39,07;103,04;37,90%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Spese animali domestici spese veterinarie;11,92;63,03;18,90%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Onorari liberi professionisti;14,44;76,64;18,80%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Oneri bancari gestione conto;3,04;8,47;35,90%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Alberghi, pensioni e viaggi organizzati;107,15;300,95;35,60%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Pasti e consumazioni fuori casa;94,15;178,49;52,70%
+2010;BENI NON ALIMENTARI;Altri beni e servizi;Altre spese;13,02;73,44;17,70%
+2011;BENI ALIMENTARI;Pane e cereali;Pane, grissini, crackers, ecc.;23,15;27,95;83%
+2011;BENI ALIMENTARI;Pane e cereali;Pasta e riso;13,6;22,42;61%
+2011;BENI ALIMENTARI;Pane e cereali;Altri cereali e prodotti preparati;8,57;26,47;32%
+2011;BENI ALIMENTARI;Carne;Carni rosse;41,27;71,51;58%
+2011;BENI ALIMENTARI;Carne;Carni bianche;20,71;45,99;45%
+2011;BENI ALIMENTARI;Carne;Salumi;28,92;42,62;68%
+2011;BENI ALIMENTARI;Carne;Carni preparate, in scatola;0,88;19,52;5%
+2011;BENI ALIMENTARI;Pesce;Pesce;27,42;53,46;51%
+2011;BENI ALIMENTARI;Latte, formaggi e uova;Latte, yogurt e derivati del latte;19,98;26,06;77%
+2011;BENI ALIMENTARI;Latte, formaggi e uova;Formaggi e latticini;29,42;41,89;70%
+2011;BENI ALIMENTARI;Latte, formaggi e uova;Uova;3,4;8,37;41%
+2011;BENI ALIMENTARI;Oli e grassi;Olio di oliva e semi;10,51;25,59;41%
+2011;BENI ALIMENTARI;Oli e grassi;Burro, margarina e altri grassi;1,65;9,68;17%
+2011;BENI ALIMENTARI;Patate, frutta e ortaggi;Ortaggi;43,07;50,59;85%
+2011;BENI ALIMENTARI;Patate, frutta e ortaggi;Frutta;35,56;42,96;83%
+2011;BENI ALIMENTARI;Zucchero, caffè e drogheria;Zucchero;2,66;14,38;19%
+2011;BENI ALIMENTARI;Zucchero, caffè e drogheria;Gelati, confetture e dolciumi;25,46;35,58;72%
+2011;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caffè, the, cacao, orzo, ecc.;7,39;22,89;32%
+2011;BENI ALIMENTARI;Zucchero, caffè e drogheria;Sale, spezie, salse e condimenti;7;16,5;42%
+2011;BENI ALIMENTARI;Bevande;Vino;18,62;45,56;41%
+2011;BENI ALIMENTARI;Bevande;Birra;3,84;21,7;18%
+2011;BENI ALIMENTARI;Bevande;Liquori e altre bevande alcooliche;2,5;39,7;6%
+2011;BENI ALIMENTARI;Bevande;Acqua minerale;7,48;16,66;45%
+2011;BENI ALIMENTARI;Bevande;Altre bevande;10,75;26,26;41%
+2011;BENI ALIMENTARI;Altri generi alimentari;Altri generi alimentari;16,01;46,7;34%
+2011;BENI NON ALIMENTARI;Tabacchi;Tabacchi;17,69;98,68;18%
+2011;BENI NON ALIMENTARI;Abbigliamento e calzature;Abbigliamento;83,05;103,74;80%
+2011;BENI NON ALIMENTARI;Abbigliamento e calzature;Calzature;27,52;46,57;59%
+2011;BENI NON ALIMENTARI;Abbigliamento e calzature;Riparazioni di abbigliamento e calzature;5,79;23,33;25%
+2011;BENI NON ALIMENTARI;Abitazione;Affitto canone mensile;166,68;532,82;31%
+2011;BENI NON ALIMENTARI;Abitazione;ICI;2,9;27,73;10%
+2011;BENI NON ALIMENTARI;Abitazione;Tassa rifiuti;18,23;20,22;90%
+2011;BENI NON ALIMENTARI;Abitazione;Acqua e condominio;169,86;217,35;78%
+2011;BENI NON ALIMENTARI;Abitazione;Manutenzione ordinaria;25,84;98,13;26%
+2011;BENI NON ALIMENTARI;Abitazione;Manutenzione straordinaria;31,14;244,55;13%
+2011;BENI NON ALIMENTARI;Combustibili ed energia;Energia elettrica;34,42;34,89;99%
+2011;BENI NON ALIMENTARI;Combustibili ed energia;Gas e altri combustibili per riscald.;30,24;31,4;96%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Elettrodomestici;15,87;124,19;13%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Altri beni durevoli per la casa;6,07;69,13;9%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Piccoli apparecchi elettrici e acc. per la casa;11,31;20,15;56%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Mobili;24,92;234,39;11%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Articoli di arredamento e biancheria casa;16,09;77,09;21%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Pentole, posate e altre stoviglie;3,78;19,9;19%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Tovaglioli piatti carta contenitori alluminio ecc.;4,77;20,5;23%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Detersivi;16,63;32,48;51%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Lavanderia e tintoria;8,7;77,8;11%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Servizi domestici;54,87;284,54;19%
+2011;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Riparazioni di mobili, elettrod. e app. elettrici;4,59;58,05;8%
+2011;BENI NON ALIMENTARI;Sanità;Medicinali;54,48;72,55;75%
+2011;BENI NON ALIMENTARI;Sanità;Visite mediche (escluso dentista);19,44;68,25;28%
+2011;BENI NON ALIMENTARI;Sanità;Dentista;57,75;208,39;28%
+2011;BENI NON ALIMENTARI;Sanità;Ricoveri ospedalieri, case di riposo, infermieri;4,9;116,73;4%
+2011;BENI NON ALIMENTARI;Sanità;Occhiali da vista, protesi, apparecchi ecc.;13,16;75,57;17%
+2011;BENI NON ALIMENTARI;Sanità;Analisi esami radiografie altre spese salute;6,02;39,93;15%
+2011;BENI NON ALIMENTARI;Trasporti;Acquisto auto;33,36;414,16;8%
+2011;BENI NON ALIMENTARI;Trasporti;Acquisto moto e scooter;2,65;197,77;1%
+2011;BENI NON ALIMENTARI;Trasporti;Aquisto biciclette;0,74;23,29;3%
+2011;BENI NON ALIMENTARI;Trasporti;Assicurazioni mezzi trasporto bollo/patente;56,76;85,54;66%
+2011;BENI NON ALIMENTARI;Trasporti;Manutenzioni e riparazioni, Pezzi di ricambio;22,34;42,97;52%
+2011;BENI NON ALIMENTARI;Trasporti;Carburanti per veicoli;80,84;124,94;65%
+2011;BENI NON ALIMENTARI;Trasporti;Tram, autobus e taxi;26,21;35,18;75%
+2011;BENI NON ALIMENTARI;Trasporti;Altri trasporti;25,59;174,74;15%
+2011;BENI NON ALIMENTARI;Trasporti;Spese per parcheggio box auto e pedaggi;20,01;64,41;31%
+2011;BENI NON ALIMENTARI;Comunicazioni;Spese per telefono, abb. cellulare /ricariche;65,06;66,5;98%
+2011;BENI NON ALIMENTARI;Comunicazioni;Apparecchi per telefonia e comunicazioni;4,99;55,19;9%
+2011;BENI NON ALIMENTARI;Comunicazioni;Francobolli e altre spese postali;0,81;5,98;14%
+2011;BENI NON ALIMENTARI;Istruzione;Libri scolastici;2,73;21,01;13%
+2011;BENI NON ALIMENTARI;Istruzione;Tasse scolastiche, rette e simili;24,95;117,92;21%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Radio, TV, HI-FI, videoregistratori, ecc.;11,58;80,68;14%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Computer, stampanti, software, ecc.;16,07;121,92;13%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giochi e giocattoli;9,04;43,18;21%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Libri non scolastici;15,87;32,85;48%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giornali e riviste;15,91;32,47;49%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Dischi, cassette e videocassette;3,65;19,96;18%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cancelleria;6,92;29,94;23%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Abbonamento radio-tv e internet;16,55;43,58;38%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Lotto, totocalcio e lotterie;7,09;72,98;10%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Piante e fiori;9,67;72,01;13%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese per lo sport e articoli sportivi;31,79;97,97;32%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cinema, teatro, concerti e musei;17,5;40,39;43%
+2011;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Altri articoli per il tempo libero;2,45;71,77;3%
+2011;BENI NON ALIMENTARI;Mutuo;Rata mensile;88,37;634,7;14%
+2011;BENI NON ALIMENTARI;Affitto figurativo ;Canone mensile;609,77;1142,14;53%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Prodotti per la cura personale;34,2;51,03;67%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Apparecchi per la cura della persona;1,33;19,13;7%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Barbiere, parucchiere e istituti di bellezza;19,52;154,43;13%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Argenteria, gioielleria, bigiotteria, orologi;5,92;54,83;11%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Borse valigie altri articoli personali e infanzia;8,04;37,2;22%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Assicurazioni vita e malattie;38,57;100,71;38%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Spese animali domestici spese veterinarie;11,92;73,42;16%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Onorari liberi professionisti;19,84;110,43;18%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Oneri bancari gestione conto;3,43;10,15;34%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Alberghi, pensioni e viaggi organizzati;75,79;212,6;36%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Pasti e consumazioni fuori casa;119,8;193,85;62%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Articoli per anziani e disabili;0,47;1;47%
+2011;BENI NON ALIMENTARI;Altri beni e servizi;Altre spese;36,67;3485,78;1%
+2012;BENI ALIMENTARI;Pane e cereali;Pane, grissini, crackers, ecc.;31,68;33,76;93,60%
+2012;BENI ALIMENTARI;Pane e cereali;Pasta e riso;18,11;23,07;78,60%
+2012;BENI ALIMENTARI;Pane e cereali;Altri cereali e prodotti preparati;10,76;31,09;34,90%
+2012;BENI ALIMENTARI;Carne;Carni rosse;37,81;55,93;67,80%
+2012;BENI ALIMENTARI;Carne;Carni bianche;20,55;34,37;59,80%
+2012;BENI ALIMENTARI;Carne;Salumi;27,24;37,92;71,90%
+2012;BENI ALIMENTARI;Carne;Carni preparate, in scatola;9,5;26,44;35,80%
+2012;BENI ALIMENTARI;Pesce;Pesce;29,63;48,62;61,50%
+2012;BENI ALIMENTARI;Latte, formaggi e uova;Latte, yogurt e derivati del latte;20,66;24,33;84,90%
+2012;BENI ALIMENTARI;Latte, formaggi e uova;Formaggi e latticini;28,06;34,17;82,20%
+2012;BENI ALIMENTARI;Latte, formaggi e uova;Uova;5,65;9,49;59,30%
+2012;BENI ALIMENTARI;Oli e grassi;Olio di oliva e semi;7,56;23,67;32,10%
+2012;BENI ALIMENTARI;Oli e grassi;Burro, margarina e altri grassi;3,36;11,61;29,00%
+2012;BENI ALIMENTARI;Patate, frutta e ortaggi;Ortaggi;40,15;43,47;92,40%
+2012;BENI ALIMENTARI;Patate, frutta e ortaggi;Frutta;42,98;48,22;89,00%
+2012;BENI ALIMENTARI;Zucchero, caffè e drogheria;Zucchero;3,75;9,71;38,20%
+2012;BENI ALIMENTARI;Zucchero, caffè e drogheria;Gelati, confetture e dolciumi;26,41;37,46;70,60%
+2012;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caffè, the, cacao, orzo, ecc.;12,67;23,13;55,00%
+2012;BENI ALIMENTARI;Zucchero, caffè e drogheria;Sale, spezie, salse e condimenti;9,69;16,76;58,50%
+2012;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caramelle;0,08;12,57;0,70%
+2012;BENI ALIMENTARI;Bevande;Vino;16,39;43,85;37,00%
+2012;BENI ALIMENTARI;Bevande;Birra;6,31;24,71;25,50%
+2012;BENI ALIMENTARI;Bevande;Liquori e altre bevande alcooliche;3,54;40,53;8,80%
+2012;BENI ALIMENTARI;Bevande;Acqua minerale;10,57;17,32;61,70%
+2012;BENI ALIMENTARI;Bevande;Altre bevande;10,28;20,49;50,70%
+2012;BENI NON ALIMENTARI;Tabacchi;Tabacchi;27,07;96,07;28,20%
+2012;BENI NON ALIMENTARI;Abbigliamento e calzature;Abbigliamento;69,72;85,33;85,33
+2012;BENI NON ALIMENTARI;Abbigliamento e calzature;Calzature;20,02;39,8;39,8
+2012;BENI NON ALIMENTARI;Abbigliamento e calzature;Riparazioni di abbigliamento e calzature;2,48;10,46;10,46
+2012;BENI NON ALIMENTARI;Abitazione;Affitto canone mensile;162,01;598,87;27,10%
+2012;BENI NON ALIMENTARI;Abitazione;IMU;22,68;41,66;54,40%
+2012;BENI NON ALIMENTARI;Abitazione;Tassa rifiuti;16,35;21,03;77,80%
+2012;BENI NON ALIMENTARI;Abitazione;Acqua e condominio;166,69;196,98;84,60%
+2012;BENI NON ALIMENTARI;Abitazione;Manutenzione ordinaria;27,38;66,7;41,00%
+2012;BENI NON ALIMENTARI;Abitazione;Manutenzione straordinaria;40,32;171,47;23,50%
+2012;BENI NON ALIMENTARI;Abitazione;Assicurazioni contro incendio, furto, danni abitazioni;7,32;22,85;32,00%
+2012;BENI NON ALIMENTARI;Combustibili ed energia;Energia elettrica;36,28;38,23;94,90%
+2012;BENI NON ALIMENTARI;Combustibili ed energia;Gas e altri combustibili per riscald.;34,23;36,63;93,40%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Elettrodomestici;14,72;109,56;13,40%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Altri beni durevoli per la casa;11,68;75,57;15,40%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Piccoli apparecchi elettrici e acc. per la casa;13,98;26,17;53,40%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Mobili;55,57;355,1;15,60%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Articoli di arredamento e biancheria casa;14,31;47,52;30,10%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Pentole, posate e altre stoviglie;3,44;14,19;24,20%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Tovaglioli piatti carta contenitori alluminio ecc.;6,77;15,58;43,40%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Detersivi;20,4;30,97;65,80%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Lavanderia e tintoria;11,68;48,85;23,90%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Servizi domestici;51,47;285,48;18,00%
+2012;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Riparazioni di mobili, elettrod. e app. elettrici;3,54;23,91;14,80%
+2012;BENI NON ALIMENTARI;Sanità;Medicinali;39,16;62,46;62,70%
+2012;BENI NON ALIMENTARI;Sanità;Visite mediche (escluso dentista);18,47;51,38;35,90%
+2012;BENI NON ALIMENTARI;Sanità;Dentista;38,51;136,01;28,30%
+2012;BENI NON ALIMENTARI;Sanità;Ricoveri ospedalieri, case di riposo, infermieri;10,37;183,29;5,70%
+2012;BENI NON ALIMENTARI;Sanità;Occhiali da vista, protesi, apparecchi ecc.;14,59;67,54;21,60%
+2012;BENI NON ALIMENTARI;Sanità;Analisi esami radiografie altre spese salute;6,81;26,42;25,80%
+2012;BENI NON ALIMENTARI;Sanità;Articoli per anziani e disabili;1,02;53,74;1,90%
+2012;BENI NON ALIMENTARI;Trasporti;Acquisto auto;69,2;753,42;9,20%
+2012;BENI NON ALIMENTARI;Trasporti;Acquisto moto e scooter;4,2;277,85;1,50%
+2012;BENI NON ALIMENTARI;Trasporti;Aquisto biciclette;0,98;19,9;4,90%
+2012;BENI NON ALIMENTARI;Trasporti;Assicurazioni mezzi trasporto bollo/patente;58,23;84,15;69,20%
+2012;BENI NON ALIMENTARI;Trasporti;Manutenzioni e riparazioni, Pezzi di ricambio;19,85;37,38;53,10%
+2012;BENI NON ALIMENTARI;Trasporti;Carburanti per veicoli;78,35;116,84;67,10%
+2012;BENI NON ALIMENTARI;Trasporti;Tram, autobus e taxi;23,53;32,52;72,30%
+2012;BENI NON ALIMENTARI;Trasporti;Altri trasporti;26,97;74,87;36,00%
+2012;BENI NON ALIMENTARI;Trasporti;Spese per parcheggio box auto e pedaggi;22,43;50,86;44,10%
+2012;BENI NON ALIMENTARI;Comunicazioni;Spese per telefono, abb. cellulare /ricariche;58,39;60,83;96,00%
+2012;BENI NON ALIMENTARI;Comunicazioni;Apparecchi per telefonia e comunicazioni;3,28;32,75;10,00%
+2012;BENI NON ALIMENTARI;Comunicazioni;Francobolli e altre spese postali;1,55;6,53;23,60%
+2012;BENI NON ALIMENTARI;Istruzione;Libri scolastici;3,67;20,87;17,60%
+2012;BENI NON ALIMENTARI;Istruzione;Tasse scolastiche, rette e simili;28,4;143,85;19,70%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Radio, TV, HI-FI, videoregistratori, ecc.;9,65;77,33;12,50%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Computer, stampanti, software, ecc.;18;109,29;16,50%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giochi e giocattoli;4,32;26,22;16,50%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Libri non scolastici;10,78;20,91;51,60%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giornali e riviste;19,67;33,63;58,50%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Dischi, cassette e videocassette;2,42;14,45;16,80%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cancelleria;5,66;25,6;22,10%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Abbonamento radio-tv e internet;9,29;22,7;40,90%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Lotto, totocalcio e lotterie;5,65;36,41;15,50%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Piante e fiori;8,04;47,21;17,00%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese per lo sport e articoli sportivi;22,91;72,02;31,80%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cinema, teatro, concerti e musei;10,13;22,08;45,90%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese animali domestici, spese veterinarie;12,06;67,27;17,90%
+2012;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Altri articoli per il tempo libero;5,33;27,41;19,40%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Prodotti per la cura personale;30,92;42,43;72,90%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Apparecchi per la cura della persona;1,16;11,57;10,00%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Barbiere, parucchiere e istituti di bellezza;33,45;121,27;27,60%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Argenteria, gioielleria, bigiotteria, orologi;5,81;35,55;16,40%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Borse valigie altri articoli personali e infanzia;4,71;18,89;24,90%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Assicurazioni vita e malattie, fondi pensione, RC;33,61;111,75;30,10%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Onorari liberi professionisti;15,98;69,45;23,00%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Oneri bancari gestione conto;3,99;8,06;49,40%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Alberghi, pensioni e viaggi organizzati;92,55;223,06;41,50%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Pasti e consumazioni fuori casa;101,83;152,78;66,70%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Spese speciali;16,15;131,5;12,30%
+2012;BENI NON ALIMENTARI;Altri beni e servizi;Donazioni, regali in moneta, importi a figli;35,15;70,7;49,70%
+2012;BENI NON ALIMENTARI;Mutuo;Rata mensile;651,79;875,17;74,50%
+2012;BENI NON ALIMENTARI;Affitto figurativo ;Canone mensile;105,94;624,39;17,00%
+2013;BENI ALIMENTARI;Pane e cereali;Pane, grissini, crackers, ecc.;27,29;30,2;90,27%
+2013;BENI ALIMENTARI;Pane e cereali;Pasta e riso;13,93;19,94;69,95%
+2013;BENI ALIMENTARI;Pane e cereali;Altri cereali e prodotti preparati;17,54;23,15;75,85%
+2013;BENI ALIMENTARI;Carne;Carni rosse;34,77;51,15;67,65%
+2013;BENI ALIMENTARI;Carne;Carni bianche;18,16;31,78;56,94%
+2013;BENI ALIMENTARI;Carne;Salumi;21,13;32,35;65,14%
+2013;BENI ALIMENTARI;Carne;Carni preparate, in scatola;5,09;22,07;23,17%
+2013;BENI ALIMENTARI;Pesce;Pesce;29,36;49,33;59,67%
+2013;BENI ALIMENTARI;Latte, formaggi e uova;Latte, yogurt e derivati del latte;19,67;23;85,25%
+2013;BENI ALIMENTARI;Latte, formaggi e uova;Formaggi e latticini;25,27;31,65;79,78%
+2013;BENI ALIMENTARI;Latte, formaggi e uova;Uova;4,9;8,48;58,14%
+2013;BENI ALIMENTARI;Oli e grassi;Olio di oliva e semi;7,34;18,35;39,89%
+2013;BENI ALIMENTARI;Oli e grassi;Burro, margarina e altri grassi;1,72;7,56;22,62%
+2013;BENI ALIMENTARI;Patate, frutta e ortaggi;Ortaggi;46,82;49,58;94,54%
+2013;BENI ALIMENTARI;Patate, frutta e ortaggi;Frutta;36,31;40,75;89,07%
+2013;BENI ALIMENTARI;Zucchero, caffè e drogheria;Zucchero;1,9;6,84;27,98%
+2013;BENI ALIMENTARI;Zucchero, caffè e drogheria;Gelati, confetture e dolciumi;26,31;33,98;77,16%
+2013;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caffè, the, cacao, orzo, ecc.;11,44;21,44;53,99%
+2013;BENI ALIMENTARI;Zucchero, caffè e drogheria;Sale, spezie, salse e condimenti;12,25;17,39;70,49%
+2013;BENI ALIMENTARI;Zucchero, caffè e drogheria;Caramelle;-;-;-
+2013;BENI ALIMENTARI;Bevande;Vino;13,41;35,99;37,27%
+2013;BENI ALIMENTARI;Bevande;Birra;4,36;16,58;26,23%
+2013;BENI ALIMENTARI;Bevande;Liquori e altre bevande alcooliche;3,05;35,46;8,85%
+2013;BENI ALIMENTARI;Bevande;Acqua minerale;9,22;17,5;52,35%
+2013;BENI ALIMENTARI;Bevande;Altre bevande;8,23;15,66;52,24%
+2013;BENI NON ALIMENTARI;Tabacchi;Tabacchi;19,76;81,89;24,04%
+2013;BENI NON ALIMENTARI;Abbigliamento e calzature;Abbigliamento;69,58;90,34;77,05%
+2013;BENI NON ALIMENTARI;Abbigliamento e calzature;Calzature;22,02;56,82;38,80%
+2013;BENI NON ALIMENTARI;Abbigliamento e calzature;Riparazioni di abbigliamento e calzature;5,22;25,39;20,55%
+2013;BENI NON ALIMENTARI;Abitazione;Affitto canone mensile;173,59;510,5;33,99%
+2013;BENI NON ALIMENTARI;Abitazione;IMU;18,53;39,47;46,99%
+2013;BENI NON ALIMENTARI;Abitazione;Tassa rifiuti;16,46;21,46;76,72%
+2013;BENI NON ALIMENTARI;Abitazione;Acqua e condominio;168,24;215,37;78,14%
+2013;BENI NON ALIMENTARI;Abitazione;Manutenzione ordinaria;17,78;55,87;31,80%
+2013;BENI NON ALIMENTARI;Abitazione;Manutenzione straordinaria;33,85;157,64;21,53%
+2013;BENI NON ALIMENTARI;Abitazione;Assicurazioni contro incendio, furto, danni abitazioni;5,93;24,4;24,26%
+2013;BENI NON ALIMENTARI;Combustibili ed energia;Energia elettrica;36,59;37,92;96,50%
+2013;BENI NON ALIMENTARI;Combustibili ed energia;Gas e altri combustibili per riscald.;30,55;31,94;95,74%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Elettrodomestici;14;51,03;27,43%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Altri beni durevoli per la casa;5,22;20,11;26,01%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Piccoli apparecchi elettrici e acc. per la casa;6,81;14,97300344;45,46%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Mobili;27,52;117,95;23,39%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Articoli di arredamento e biancheria casa;7,83;18,88;41,53%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Pentole, posate e altre stoviglie;2,25;4,87;46,12%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Tovaglioli piatti carta contenitori alluminio ecc.;5,84;14,94;39,02%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Detersivi;21,94;32,58;67,21%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Lavanderia e tintoria;8,31;42,93;19,45%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Servizi domestici;54,38;257,65;21,09%
+2013;BENI NON ALIMENTARI;Mobili, elettrodomestici, servizi per la casa;Riparazioni di mobili, elettrod. e app. elettrici;2,1;9,9;21,31%
+2013;BENI NON ALIMENTARI;Sanità;Medicinali;35,6;84,56;42,19%
+2013;BENI NON ALIMENTARI;Sanità;Visite mediche (escluso dentista);17,52;30,61;57,27%
+2013;BENI NON ALIMENTARI;Sanità;Dentista;37,04;74,66;49,62%
+2013;BENI NON ALIMENTARI;Sanità;Ricoveri ospedalieri, case di riposo, infermieri;8,24;55,1;14,97%
+2013;BENI NON ALIMENTARI;Sanità;Occhiali da vista, protesi, apparecchi ecc.;10,96;30,48;35,96%
+2013;BENI NON ALIMENTARI;Sanità;Analisi esami radiografie altre spese salute;5,63;12,63;44,59%
+2013;BENI NON ALIMENTARI;Sanità;Articoli per anziani e disabili;0,37;20,81;1,75%
+2013;BENI NON ALIMENTARI;Trasporti;Acquisto auto;39,79;579,21;6,89%
+2013;BENI NON ALIMENTARI;Trasporti;Acquisto moto e scooter;3,14;202,15;1,53%
+2013;BENI NON ALIMENTARI;Trasporti;Aquisto biciclette;1,39;11,85;11,69%
+2013;BENI NON ALIMENTARI;Trasporti;Assicurazioni mezzi trasporto bollo/patente;56,68;89,77;63,17%
+2013;BENI NON ALIMENTARI;Trasporti;Manutenzioni e riparazioni, Pezzi di ricambio;21,59;39,57;54,54%
+2013;BENI NON ALIMENTARI;Trasporti;Carburanti per veicoli;75,92;163,06;46,34%
+2013;BENI NON ALIMENTARI;Trasporti;Tram, autobus e taxi;30,25;47,21928512;64,04%
+2013;BENI NON ALIMENTARI;Trasporti;Altri trasporti;16,82;66,82;25,14%
+2013;BENI NON ALIMENTARI;Trasporti;Spese per parcheggio box auto e pedaggi;25,17;97,19854172;25,90%
+2013;BENI NON ALIMENTARI;Comunicazioni;Spese per telefono, abb. cellulare /ricariche;62,54;63,6;98,36%
+2013;BENI NON ALIMENTARI;Comunicazioni;Apparecchi per telefonia e comunicazioni;6,04;44,92;13,44%
+2013;BENI NON ALIMENTARI;Comunicazioni;Francobolli e altre spese postali;1,32;4,37;30,27%
+2013;BENI NON ALIMENTARI;Istruzione;Libri scolastici;5,17;25,56;20,22%
+2013;BENI NON ALIMENTARI;Istruzione;Tasse scolastiche, rette e simili;32,11;139,67;22,95%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Radio, TV, HI-FI, videoregistratori, ecc.;7,96;24,98;31,91%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Computer, stampanti, software, ecc.;10,12;32,92;30,71%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giochi e giocattoli;4,33;14,25;30,38%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Libri non scolastici;7,03;13,34;52,68%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Giornali e riviste;12,51;24,30733261;51,48%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Dischi, cassette e videocassette;2,2;6,71;32,79%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cancelleria;3,36;19,83;17,27%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Abbonamento radio-tv e internet;12,57;18,82;66,78%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Lotto, totocalcio e lotterie;4,8;30,63;15,85%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Piante e fiori;5,86;32,19;18,14%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese per lo sport e articoli sportivi;20,24;45,7;44,26%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Cinema, teatro, concerti e musei;12,49;19,47;64,15%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Spese animali domestici, spese veterinarie;8,81;59,31231646;14,86%
+2013;BENI NON ALIMENTARI;Tempo libero, cultura e giochi;Altri articoli per il tempo libero;5,07;13,1;38,69%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Prodotti per la cura personale;28,52;44,73;63,72%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Apparecchi per la cura della persona;1,05;4,9;21,31%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Barbiere, parucchiere e istituti di bellezza;36,91;58,84;62,73%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Argenteria, gioielleria, bigiotteria, orologi;6,71;52,48;12,79%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Borse valigie altri articoli personali e infanzia;10,87;39,8;27,32%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Assicurazioni vita e malattie, fondi pensione, RC;32,63;110,07;29,62%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Onorari liberi professionisti;15,51;45,74;33,88%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Oneri bancari gestione conto;4,04;8,56;47,21%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Alberghi, pensioni e viaggi organizzati;90,27;118,68;76,07%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Pasti e consumazioni fuori casa;76,8;124,14;61,64%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Spese speciali;12,94;80,48;16,07%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Donazioni, regali in moneta, importi a figli;38;62,10426768;61,20%
+2013;BENI NON ALIMENTARI;Altri beni e servizi;Altre spese;6,2;53,11959483;11,69%
+2013;BENI NON ALIMENTARI;Mutuo;Rata mensile;68,49;575,91;11,91%
+2013;BENI NON ALIMENTARI;Affitto figurativo ;Canone mensile;661,06;964,79;68,52%
