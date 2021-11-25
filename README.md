@@ -1,7 +1,7 @@
-# Organizzazioni e Società Digitali (Computer & Society) - Universita di Milano - SPS
+# Organizzazioni e Società Digitali (Computer & Society) - Università di Milano - SPS
 
 Nel Branch 11 sono presenti i seguenti file:
-- Jupyter Notebook Scatterplot-esempi.ipynb con esempi di scatterplot visti a lezione
+- Jupyter Notebook Scatterplot-esempi.ipynb con esempi base di scatterplot
 - dataset regioni_pop usato nel notebook
 - i due dataset ottenuti dagli Open Data del Comune di Milano per esercitazioni con scatterplot/lineplot e dati reali.
 
