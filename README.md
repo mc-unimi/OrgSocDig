@@ -1,4 +1,4 @@
-# Organizzazioni e Società Digitali (Computer & Society) - Universita di Milano - SPS
+# Organizzazioni e Società Digitali (Computer & Society) - Università di Milano - SPS
 
 Nel Branch 13 sono presenti i seguenti file:
 - ChoroplethMaps_Folium_Geopandas.ipynb : Jupyter notebook della lezione ed esempi
